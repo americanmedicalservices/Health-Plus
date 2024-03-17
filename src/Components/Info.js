@@ -11,11 +11,7 @@ function Info() {
           <span>What We Do</span>
         </h3>
         <p className="info-description">
-          We bring healthcare to your convenience, offering a comprehensive
-          range of on-demand medical services tailored to your needs. Our
-          platform allows you to connect with experienced online doctors who
-          provide expert medical advice, issue online prescriptions, and offer
-          quick refills whenever you require them.
+        An immigration medical exam is a necessary part of immigrating to the United States and becoming a permanent resident (green card holder). Sometimes called a green card medical exam, the appointment is a routine part of the process to ensure public safety and remove the grounds for inadmissibility for intending immigrants. 
         </p>
       </div>
 

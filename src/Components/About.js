@@ -15,17 +15,16 @@ function About() {
           <span>About Us</span>
         </h3>
         <p className="about-description">
-          Welcome to Health Plus, your trusted partner for accessible and
-          personalized healthcare. Our expert doctors offer online consultations
-          and specialized services, prioritizing your well-being. Join us on
-          this journey towards a healthier you.
+          Welcome to American Medical Services, your trusted partner for accessible and
+          personalized healthcare. Dr. Yasmin N. Yusuf is an experienced Doctor offering in person consultations, health examinations, 
+          and other specialized services, prioritizing your screening and application for the United States government.
         </p>
 
         <h4 className="about-text-title">Your Solutions</h4>
 
         <SolutionStep
           title="Choose a Specialist"
-          description="Find your perfect specialist and book with ease at Health Plus. Expert doctors prioritize your health, offering tailored care."
+          description="Find your perfect specialist and book with ease at American Medical Services. Expert doctors prioritize your health, offering tailored care."
         />
 
         <SolutionStep

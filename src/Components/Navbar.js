@@ -31,7 +31,7 @@ function Navbar() {
     <div className="navbar-section">
       <h1 className="navbar-title">
         <Link to="/">
-          Health <span className="navbar-sign">+</span>
+          American Medical Services <span className="navbar-sign">+</span>
         </Link>
       </h1>
 
@@ -70,7 +70,7 @@ function Navbar() {
         disabled={isButtonDisabled}
         onClick={handleChatBtnClick}
       >
-        <FontAwesomeIcon icon={faCommentDots} /> Live Chat
+        <a href="tel:+608-909-0912">608-909-0912</a>
       </button>
 
       {/* Mobile */}
